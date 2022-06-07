@@ -1,0 +1,25 @@
+ Date: 06/06/22           Angela Yu (Full Stack Development Bootcamp)   
+
+Blog App Challenge
+
+Challenge 0 : Setup the App
+Challenge 1 : set up home routes and show the content of home.ejs
+Challenge 2 : show the content of the app.js to the home routes(variable) using ejs
+Challenge 3 : include the header and footer in the home file using ejs layout
+Challenge 4 : make a new folder in views named partials and put the header and footer into it
+Challenge 5 : setup the about and contact routes and show the content of it
+Challenge 6 : Setup the navbar links about, home, contact
+Challenge 7 : setup new route to compose page and make a form and button
+Challenge 8 : console log the form input after submit
+Challenge 9 : setup the new 2 input title and post and button and apply the Bootstrap into the compose page
+Challenge 10 : make object and store the title & post (form data) into a object
+Challenge 11 : make a empty global array and store all the objects into it(post and title) and after submit redirect to the home route & log the array.
+Challenge 12 : show all the post in home.ejs page
+Challenge 13 : print the title of the post (only title)
+Challenge 14 : use forEach loop instead of for loop to print the post/title
+Challenge 15 : show the title and post at home page
+Challenge 16 : using params console the parameters post/----value---
+Challenge 17 : if in the browser ex: (posts/Test) means that the Test titled post found then console that "MATCH FOUND"
+Challenge 18 : install lodash and require it and change the title of posts into lowercase and then check with the URL params
+Challenge 19 : render the individual post in individual page(post page) and navigate through the parameters
+Challenge 20 : show only 100 characters in every post in home page
